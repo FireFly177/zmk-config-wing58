@@ -82,11 +82,6 @@
             key-positions = <36 47>;
             layers = <0 1>;
         };
-
-        test {
-            bindings = <&kp LEFT_CONTROL>;
-            key-positions = <24 35>;
-        };
     };
 
     keymap {
